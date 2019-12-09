@@ -29,12 +29,12 @@
             android:id="@+id/tvTglTerbit"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Sabtu, 12 Maret 2018."/>
+            android:text="Date"/>
         <TextView
             android:id="@+id/tvPenulis"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="10dp"
-            android:text="Oleh : Rizal Hilman"/>
+            />
     </LinearLayout>
 </LinearLayout>
