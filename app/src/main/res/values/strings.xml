@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mr. Herbal</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="large_text"></string>
+    <string name="action_settings">Settings</string>
+</resources>
